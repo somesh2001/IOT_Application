@@ -91,4 +91,9 @@ Since we need to get the data of the multiple borewell we require two borewells,
 
 ## when water is detected data gets reflected in the cloud and mobile application
 
-<img src="https://user-images.githubusercontent.com/56119880/180649540-1b9abc21-6f9a-474a-8237-21b7e9ca5744.png" width="450" height="450"/>--------<img src=https://user-images.githubusercontent.com/56119880/180649553-d5f26945-3f45-46b1-b657-ce1417b64edc.png" width="450" height="450"/>  
+<img src="https://user-images.githubusercontent.com/56119880/180649540-1b9abc21-6f9a-474a-8237-21b7e9ca5744.png" width="420" height="450"/>
+
+## Water level value reflected in mobile application
+
+<img src="https://user-images.githubusercontent.com/56119880/180649703-964dbf93-dff2-41ff-a875-033c92e7b68f.png" width="400" height="450"/>
+
