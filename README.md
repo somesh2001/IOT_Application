@@ -84,3 +84,11 @@ Since we need to get the data of the multiple borewell we require two borewells,
 ## Top View
 
 <img src="https://user-images.githubusercontent.com/56119880/180649332-e5942ee1-3087-4d79-9511-7b6223d4c75c.png"/><br />
+
+##  When water level is zero give alert
+
+<img src="https://user-images.githubusercontent.com/56119880/180649354-a70f420b-82e8-4acd-b077-3771d8b88e5b.png" width="450" height="450"/>--------<img src="https://user-images.githubusercontent.com/56119880/180649421-ba898daf-f5ea-4998-8703-6cbc6061d490.png" width="450" height="450"/>
+
+## when water is detected data gets reflected in the cloud and mobile application
+
+<img src="https://user-images.githubusercontent.com/56119880/180649540-1b9abc21-6f9a-474a-8237-21b7e9ca5744.png" width="450" height="450"/>--------<img src=https://user-images.githubusercontent.com/56119880/180649553-d5f26945-3f45-46b1-b657-ce1417b64edc.png" width="450" height="450"/>  
