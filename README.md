@@ -97,3 +97,14 @@ Since we need to get the data of the multiple borewell we require two borewells,
 
 <img src="https://user-images.githubusercontent.com/56119880/180649703-964dbf93-dff2-41ff-a875-033c92e7b68f.png" width="400" height="450"/>
 
+## Check the Voltage
+
+<img src="https://user-images.githubusercontent.com/56119880/180649776-e1f674e1-67ef-4dcc-941a-45e5ef37ee06.png" />
+
+## Voltage value reflected in mobile application 
+
+<img src="https://user-images.githubusercontent.com/56119880/180649842-22a44f40-06b1-4c51-b278-f7bf51bedc84.png" width="350" height="450"/>
+
+## When falut in motor is detected and motor turns off
+
+<img src="https://user-images.githubusercontent.com/56119880/180649869-b6c2f29e-575d-4837-85e1-fda657de88f7.png" width="450" height="450"/>
