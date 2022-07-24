@@ -35,3 +35,31 @@ To design and implement Borewell Motor Monitoring system
 <br />
 ## Flow of System
 <img src="https://user-images.githubusercontent.com/56119880/180648080-4024d3a1-b920-4cef-b620-ed9e7a8e6dc9.png" width="500" height="550"/><br />
+
+## Design of the system
+## What is Layer 3 Architecture
+
+A three-layer architecture is the common and generally known structure.
+In Layer 3 architecture data gets collected from the end device through sensors and actuators then the data collected from sensors and actuators is redirected to Gateway using WIFI or Zigbee protocol, Gateway uniquely identify the data for each end device and then from Gateway data is redirected to the cloud using IP Protocol.
+<br />
+## Layer 3 Architecture Design
+<img src="https://user-images.githubusercontent.com/56119880/180648305-66a6ee0a-dce8-475d-be7f-e20a9d616fba.png" width="700" height="500"/><br />
+<br />
+## MQTT Protocol
+
+## Explanation and Justification for using MQTT Protocol
+Here the End Devices are connected to the Bluetooth and WIFI Module (ESP32) using this ESP32, I am going to connect the End device to the Gateway (Rasberry pi) and to redirect the data from ESP32 to the Gateway (Rasberry pi) I use MQTT protocol for data exchange between constrained devices and server applications.
+MQTT keeps bandwidth requirements to an absolute minimum, handles unreliable networks. I have used MQTT over HTTP because MQTT is 93 times faster than HTTP's. MQTT can connect many thousands or even millions of devices. Besides the scalability, it is simple to use. It has low system requirements and high compatibility with Internet-connected applications
+## Advantages of MQTT
+
+•	Efficient data transmission.<br />
+•	Quick to implement as it is a lightweight protocol.<br />
+•	Low network usage due to minimization of data packets.<br />
+•	Fast and efficient message delivery.<br />
+•	Uses very small amounts of power, which is good especially for the wireless devices.<br />
+•	Reduction of network bandwidth in communication.
+
+## Communication Architecture Design
+
+<img src="https://user-images.githubusercontent.com/56119880/180648458-6ba02b6b-c945-4db6-b8ae-13cd2d57b71d.png" width="700" height="500"/><br />
+<br />
