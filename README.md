@@ -63,6 +63,8 @@ MQTT keeps bandwidth requirements to an absolute minimum, handles unreliable net
 
 <img src="https://user-images.githubusercontent.com/56119880/180648458-6ba02b6b-c945-4db6-b8ae-13cd2d57b71d.png" width="750" height="450"/><br />
 <br />
-## Data Flow
-
-<img src="https://user-images.githubusercontent.com/56119880/180648540-20bda232-6161-4379-900b-ff14c210c349.png"/><br />
+## Implementation
+## Water level sensor fitted at the different levels
+<img src="https://user-images.githubusercontent.com/56119880/180648682-d0ab3912-6248-4c01-b2f4-e9a0f110a8a6.png"/><br />
+## Making the 3D protype to protect the Water level sensor from water
+<img src="https://user-images.githubusercontent.com/56119880/180648784-02032e68-b962-4b6f-a1bc-f3bf3e504eff.png"/><br />
