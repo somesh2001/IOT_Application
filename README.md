@@ -27,8 +27,8 @@ To design and implement Borewell Motor Monitoring system
 •	As the borewell is not working farmer is not able to provide the water to the farm (crops also get affected)<br />
 •	Repairing shop of motor is at the distance place, difficult to move the motor from one place to another<br />
 <br />
-## Initial Level Block Diagram
-<img src="https://user-images.githubusercontent.com/56119880/180648171-55e223dd-d698-4143-9de3-d8a3905b6787.png" width="600" height="500"/><br />
+## Block Diagram
+<img src="https://user-images.githubusercontent.com/56119880/180648564-bb230dee-079b-4a44-8f50-54e346699787.png" /><br />
 <br />
 ## Final Idea Detailed Sketch
 <img src="https://user-images.githubusercontent.com/56119880/180647921-4fcc2cd4-290a-43de-ba44-813f6dd232c5.png" width="700" height="500"/><br />
@@ -43,7 +43,7 @@ A three-layer architecture is the common and generally known structure.
 In Layer 3 architecture data gets collected from the end device through sensors and actuators then the data collected from sensors and actuators is redirected to Gateway using WIFI or Zigbee protocol, Gateway uniquely identify the data for each end device and then from Gateway data is redirected to the cloud using IP Protocol.
 <br />
 ## Layer 3 Architecture Design
-<img src="https://user-images.githubusercontent.com/56119880/180648305-66a6ee0a-dce8-475d-be7f-e20a9d616fba.png" width="700" height="500"/><br />
+<img src="https://user-images.githubusercontent.com/56119880/180648305-66a6ee0a-dce8-475d-be7f-e20a9d616fba.png" width="750" height="450"/><br />
 <br />
 ## MQTT Protocol
 
@@ -61,5 +61,8 @@ MQTT keeps bandwidth requirements to an absolute minimum, handles unreliable net
 
 ## Communication Architecture Design
 
-<img src="https://user-images.githubusercontent.com/56119880/180648458-6ba02b6b-c945-4db6-b8ae-13cd2d57b71d.png" width="700" height="500"/><br />
+<img src="https://user-images.githubusercontent.com/56119880/180648458-6ba02b6b-c945-4db6-b8ae-13cd2d57b71d.png" width="750" height="450"/><br />
 <br />
+## Data Flow
+
+<img src="https://user-images.githubusercontent.com/56119880/180648540-20bda232-6161-4379-900b-ff14c210c349.png"/><br />
