@@ -75,4 +75,5 @@ MQTT keeps bandwidth requirements to an absolute minimum, handles unreliable net
 
 ## Prototyping
 Since we need to get the data of the multiple borewell we require two borewells, we require two buckets to place the Motor
-<img src="https://user-images.githubusercontent.com/56119880/180649101-c3884437-15fa-4394-a5b5-37c42c97e47c.png"/><br />
+
+<img src="https://user-images.githubusercontent.com/56119880/180649101-c3884437-15fa-4394-a5b5-37c42c97e47c.png" height="800"/><br />
