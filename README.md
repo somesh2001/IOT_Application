@@ -26,7 +26,12 @@ To design and implement Borewell Motor Monitoring system
 •	Accident may occur while taking the motor out from the borewell<br />
 •	As the borewell is not working farmer is not able to provide the water to the farm (crops also get affected)<br />
 •	Repairing shop of motor is at the distance place, difficult to move the motor from one place to another<br />
-
+<br />
+## Initial Level Block Diagram
+<img src="https://user-images.githubusercontent.com/56119880/180648171-55e223dd-d698-4143-9de3-d8a3905b6787.png" width="600" height="500"/><br />
+<br />
 ## Final Idea Detailed Sketch
-
-<img src="https://user-images.githubusercontent.com/56119880/180647921-4fcc2cd4-290a-43de-ba44-813f6dd232c5.png" width="340" height="690"/><br />
+<img src="https://user-images.githubusercontent.com/56119880/180647921-4fcc2cd4-290a-43de-ba44-813f6dd232c5.png" width="700" height="500"/><br />
+<br />
+## Flow of System
+<img src="https://user-images.githubusercontent.com/56119880/180648080-4024d3a1-b920-4cef-b620-ed9e7a8e6dc9.png" width="500" height="550"/><br />
